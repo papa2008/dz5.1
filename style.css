@@ -1,0 +1,199 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+}
+
+.logo-link {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: black;
+    text-decoration: none;
+}
+.Web{
+    color: #2196F3;
+}
+.nav-list{
+    list-style:none;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    /* 16px/14px line-height/font-size=значення */
+    letter-spacing: 0.02em;
+    font-family: 'Roboto' sans-serif;
+    font-size: medium;
+}
+
+.nav-list-text{
+    text-decoration: none;
+    color: #212121;
+}
+.nav-list-text:hover{
+    color:#2196F3;
+}
+
+.nav-list a {
+    text-decoration: none;
+    color: #212121;
+}
+.header-ul1{
+    text-decoration: none;
+    list-style:none;
+}
+
+.nav-list a:hover {
+    color: #2196f3;
+}
+
+.photo-do{
+    width: 370px;
+    height: 294px;
+}
+
+.team {
+    width: 270px;
+    height: 260px;
+}
+
+.contact-list:hover{
+    color: #2196f3;
+}
+
+.hero{
+    background-color: #2f303a;
+    width: 1600px;
+    height: 600px;
+}
+.hero-little {
+    position: absolute;
+    width: 696px;
+    height: 120px;
+    left: 452px;
+    top: 280px;
+    font-family: 'Roboto' sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;    
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.hero-btn{
+    background: #2196F3 ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    font-family: 'Roboto' sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.88;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+    position: absolute;
+    width: 216px;
+    height: 50px;
+    left: 692px;
+    top: 430px;
+}
+
+.features-subtitle{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+}
+
+.work-title{
+    font-weight: 700;
+    font-size: 36px; /* 42:36 */
+    line-height: 1.16;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.work-list{
+    list-style: none;
+
+}
+
+.our-team{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.16;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.team-list{
+    list-style-type: none;
+    /* в ul взяти людей */
+}
+
+.team-list-img{
+    width: 270px;
+    height: 260px;
+}
+
+.team-list-title{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.18;
+/* identical to box height */
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.team-list-paragraph{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.18;
+/* identical to box height */
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+.footer{
+    background:#2F303A;;
+}
+.studio{
+    color: #FFFFFF;
+    list-style: none;
+    text-decoration: none;
+}
+
+.nav-list-text{
+    text-decoration: none;
+}
+
+.ul-list{
+    text-decoration: none;
+    list-style:none;
+}
+
+.footer-text{
+    color: #FFFFFF;
+}
+
+.nav-list-2 a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.nav-list-2 a:hover{
+    color: #2196F3;
+}
